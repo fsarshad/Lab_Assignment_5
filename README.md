@@ -69,9 +69,9 @@ Reverse Method
 3. So currently you would have in lines 151 for i < 6 if you were following the previous steps.  
 4. On line 162 is where you change your head. So currently I have entered the head to be 5.
 5. If you run it with the i < 6 in line 151 and head to be 5 in line 162 than the out put should look like this. 
-      1->2->3->4->5
-      5 (the head) 
-      5->4->3->2->1
+     - 1->2->3->4->5
+     - 5 (the head) 
+     - 5->4->3->2->1
  6. This should work for any scenario just change the i < ... to whatever number and the head that is part of the list you created. 
  
  
